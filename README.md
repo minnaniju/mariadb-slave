@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This stack creates MariaDB Slave Database using GitOps. Before you use this stack, make sure you have a MariaDB Master Database([MariaDB Master](https://docs.ecloudcontrol.com/mariadb-10.4_master/) up and running.
+This stack creates MariaDB Slave Database using GitOps. Before you use this stack, make sure you have a MariaDB Master Database[MariaDB Master](https://docs.ecloudcontrol.com/mariadb-10.4_master/) up and running.
 
 ### What is Gitops?
 [Gitops](https://www.ecloudcontrol.com/category/gitops/)
